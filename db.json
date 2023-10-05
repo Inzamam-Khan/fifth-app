@@ -1,0 +1,26 @@
+{
+  "contacts": [
+    {
+      "name": "haze",
+      "email": "hafzer@gmail.com",
+      "id": "2d1880f9-5296-416f-9c31-e87d202e7aba"
+    }
+  ],
+  "fav": [
+    {
+      "name": "a",
+      "email": "khanloveekhan@gmail.com",
+      "id": "787081c5-faf8-4ed4-84b6-03a04dfedd73"
+    },
+    {
+      "name": "c",
+      "email": "right icon@gmail.com",
+      "id": "7a09218a-d165-44d3-97bf-96c9af139d49"
+    },
+    {
+      "name": "b",
+      "email": "hazer@gmail.com",
+      "id": "69aad233-ea73-4260-92af-d92f6861a788"
+    }
+  ]
+}
